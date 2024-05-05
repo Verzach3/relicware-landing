@@ -1,5 +1,4 @@
-import { Container, Text, Button, Group } from '@mantine/core';
-import { GithubIcon } from '@mantinex/dev-icons';
+import { Container, Text, Group, Button } from '@mantine/core';
 import classes from './HeroLanding.module.css';
 
 export function HeroLanding() {
